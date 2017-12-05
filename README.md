@@ -158,3 +158,8 @@ https://developer.android.com/topic/libraries/architecture/guide.html
 Best rx java tutorial:-
 
 https://github.com/AutSoft/RxJavaOnAndroidArticleExamples
+
+
+Android Design Patterns:-
+
+https://www.raywenderlich.com/109843/common-design-patterns-for-android
